@@ -1,0 +1,33 @@
+form {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+table {
+    margin-top: 10px;
+    border: 1px solid #ccc;
+    border-spacing: 0;
+    width: 100%;
+    font-size: 12px;
+}
+
+th {
+    padding: 5px 10px;
+    background-color: #04AA6D;
+    color: white;
+    border-right: 1px solid #ccc;
+}
+
+tr:nth-child(4n){
+    background-color: #f4f4f4;
+}
+
+td {
+    padding: 5px 0px;
+    text-align: center;
+    border: 1px solid rgb(229, 229, 229);
+}
+
+a {
+    text-decoration: none;
+}
